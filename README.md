@@ -16,9 +16,15 @@ Lets dump the SM64 Rom first. There is 2 ways you can get this file, either dump
 
 If you choose the safe way by dumping it you can follow this tutorial below
 
-=====
+__How to dump__
 
 First drag and drop nxdumptool.nro into the SD Card:/switch/ folder
 
 Next open the app with the hbmenu (If you have the gamecard make sure its inserted)
 
+Now select the option that you need based off if the game is installed to your SD Card or if you have the gamecard, very straight forward
+(If you selected SD Card scroll until you find the game and open it)
+
+Now select `RomFS options > Browse RomFS section > [The second option](ID Offset: 1) > rom > Stardust_JP`
+
+On this screen you should see lots of files and one folder, select the .bin files that starts with 01
