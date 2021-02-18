@@ -27,4 +27,6 @@ Now select the option that you need based off if the game is installed to your S
 
 Now select `RomFS options > Browse RomFS section > [The second option](ID Offset: 1) > rom > Stardust_JP`
 
-On this screen you should see lots of files and one folder, select the .bin files that starts with 01
+On this screen you should see lots of files and one folder, select the .bin file that starts with 01. This should dump it.
+
+
