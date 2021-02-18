@@ -13,3 +13,4 @@ How-to
 =====
 First off in order to restore the BLJ in 3DAS, you're going to need those 3 things listed above.
 Lets dump the SM64 Rom first. There is 2 ways you can get this file, either dumping it or finding it in my... spicy google drive.
+
