@@ -3,7 +3,7 @@ This will bring back the infamous BLJ to the 3D All-Stars version of Super Mario
 
 Required Files / Tools
 =====
-1: [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) @DarkMatterCore
+1: [nxdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) Made by [@DarkMatterCore](https://github.com/DarkMatterCore)
 
 2: blj.bps
 
@@ -11,4 +11,5 @@ Required Files / Tools
 
 How-to
 =====
-First off in order to restore the BLJ in 3DAS, you're going to need those 3 thing
+First off in order to restore the BLJ in 3DAS, you're going to need those 3 things listed above.
+Lets dump the SM64 Rom first. There is 2 ways you can get this file, either dumping it or finding it in my... spicy google drive.
