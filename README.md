@@ -15,4 +15,8 @@ First off in order to restore the BLJ in 3DAS, you're going to need those 3 thin
 Lets dump the SM64 Rom first. There is 2 ways you can get this file, either dumping it or finding it in my... spicy google drive.
 
 If you choose the safe way by dumping it you can follow this tutorial below
+=====
+First drag and drop nxdumptool.nro into the SD Card:/switch/ folder
+
+Next open the app with the hbmenu (If you have the gamecard make sure its inserted)
 
